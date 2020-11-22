@@ -18,6 +18,7 @@
 
     <!-- Main Content -->
     <div class="container">
+      <h1>Home Page</h1>
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="post-preview" v-for="edge in $page.posts.edges" :key="edge.node.id">
