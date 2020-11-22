@@ -109,7 +109,7 @@ export default {
     }
   },
   mounted(){
-    // console.log('GRIDSOME_API_URL',this.GRIDSOME_API_URL)
+    console.log('GRIDSOME_API_URL',this.GRIDSOME_API_URL)
   }
 }
 </script>
